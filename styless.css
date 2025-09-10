@@ -1,15 +1,4 @@
 body {
-    color: white
-    background-color: black
-}
-body{
-color:blueviolet
-backgroud-color: aquamarine;
-margin:0px;
-}
-
-header{
-    border-bottom: solid 2px pink(42,61,228);
-    padding:32px;
-    color :pink(42,85,228);
+    color: rgb(255, 255, 255);
+    background: rgb(150, 24, 161);
 }
